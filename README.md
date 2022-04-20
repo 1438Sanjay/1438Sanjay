@@ -1,14 +1,11 @@
-<!-- [![website](https://img.shields.io/badge/Portfolio-ishandeveloper.com-lightgrey?style=for-the-badge&logo=googlechrome)](http://www.ishandeveloper.com)
--->
-<!--<a href="http://ishandeveloper.com"><img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%"></a>-->
-  <img src="https://github-hero-readme.vercel.app/api?username=ishandeveloper&linkedin=ishandeveloper&twitter=ishandeveloper&description=App Developer | Web Developer | UI/UX Designer" width="100%">
+
   
 #
 
 I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨
 
 - ✈️ Hire me for remote work & internships
-- 💼 Do read my resume here: [resume.ishandeveloper.com](http://resume.ishandeveloper.com)
+- 💼 Do re
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
 - ⛵ Encouraging people for open source collaborations
