@@ -13,9 +13,6 @@ I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter ap
 **Languages and Tools:**  
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg"></code>&nbsp;
 
--->
-🕵 Take a look at my repositories and let's get in touch!
-
 <p align="left">
 
 <a href="https://linkedin.com/in/sanjay-s-83131121a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
