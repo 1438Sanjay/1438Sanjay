@@ -2,8 +2,6 @@
   
 #
 
-I make elegantly professional **🌍 web apps
-
 - ✈️ Hire me for remote work & internships
 - 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
 - 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
