@@ -5,11 +5,10 @@
 I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨
 
 - ✈️ Hire me for remote work & internships
-- 💼 Do re
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
 - 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
 - ⛵ Encouraging people for open source collaborations
-- 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/ishandeveloper)
+- 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/sanjay-s-83131121a)
 - 📭 contact@ishandeveloper.com
 - ✍🏻 I write my personal thoughts on Programming & Tech on on my [Personal Blog](https://blog.ishandeveloper.com)
 <!--
