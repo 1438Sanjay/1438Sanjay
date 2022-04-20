@@ -2,7 +2,7 @@
   
 #
 
-I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨
+I make elegantly professional **🌍 web apps
 
 - ✈️ Hire me for remote work & internships
 - 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
