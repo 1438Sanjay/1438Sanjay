@@ -9,9 +9,11 @@ I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter ap
 - 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
 - ⛵ Encouraging people for open source collaborations
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/sanjay-s-83131121a)
--
+- 
 **Languages and Tools:**  
+
 <code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg"></code>&nbsp;
+
 
 <p align="left">
 
