@@ -1,20 +1,57 @@
+Sanjay S 
 
-  
-#
+Student | Interests in Data Science | Amateur in Code & Programmimg
 
-- ✈️ Hire me for remote work & internships
+![Logo](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
+
+
+# Hi, I'm Sanjay! 👋
+
+Showing passion towards Science & Technology
+
+Looking forwards more connections to Contribute
+
+ ✈️ Hire me for remote work & internships
 - 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
 - 📚 Reading more about Linus Torvalds, Harry Potter and how the computer works.
 - ⛵ Encouraging people for open source collaborations
-- 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/sanjay-s-83131121a)
-- 
-**Languages and Tools:**  
 
-<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg"></code>&nbsp;
+## 🛠 Technology Stack
+
+Python | C++ | SQL
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
 
 
-<p align="left">
 
-<a href="https://linkedin.com/in/sanjay-s-83131121a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/unique_._sanjay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="developer.ishan" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+## Maintained By
+
+This Repo is Currently Maintained By
+
+[Sanjay S](https://github.com/1438Sanjay)
+
+[Samuel Jayasingh](https://github.com/SamuelJayasingh)
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at [ here](https://github.com/1438Sanjay/1438Sanjay/issues/2)
+
